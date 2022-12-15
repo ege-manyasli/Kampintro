@@ -11,7 +11,7 @@ namespace ClassMetotDemo
         public void MusteriListele(Musteri musteri)
         {
             Console.WriteLine("\n");
-            Console.WriteLine(musteri.Ad + "-" + musteri.Soyad + " ----->  " + "İsimli Müşteri Listelendi");
+            Console.WriteLine(musteri.Ad + "-" + musteri.Soyadı + " ----->  " + "İsimli Müşteri Listelendi");
             Console.WriteLine("TC: " + musteri.TC);
             Console.WriteLine("Doğum Yeri: " + musteri.DogumYeri);
             Console.WriteLine("Telefon Numarası: " + musteri.TelefonNumarasi);
@@ -21,7 +21,7 @@ namespace ClassMetotDemo
         public void MusteriEkle(Musteri musteri)
         {
             Console.WriteLine("\n");
-            Console.WriteLine(musteri.Ad + "-" + musteri.Soyad + " ----->  " + "İsimli Müşteri Eklendi");
+            Console.WriteLine(musteri.Ad + "-" + musteri.Soyadı + " ----->  " + "İsimli Müşteri Eklendi");
             Console.WriteLine("TC: " + musteri.TC);
             Console.WriteLine("Doğum Yeri: " + musteri.DogumYeri);
             Console.WriteLine("Telefon Numarası: " + musteri.TelefonNumarasi);
@@ -31,7 +31,7 @@ namespace ClassMetotDemo
         public void MusteriSil(Musteri musteri)
         {
             Console.WriteLine("\n");
-            Console.WriteLine(musteri.Ad + "-" + musteri.Soyad + " ----->  " + "İsimli Müşteri Silindi");
+            Console.WriteLine(musteri.Ad + "-" + musteri.Soyadı + " ----->  " + "İsimli Müşteri Silindi");
             Console.WriteLine("TC: " + musteri.TC);
             Console.WriteLine("Doğum Yeri: " + musteri.DogumYeri);
             Console.WriteLine("Telefon Numarası: " + musteri.TelefonNumarasi);

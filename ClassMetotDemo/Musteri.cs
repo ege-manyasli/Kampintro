@@ -8,8 +8,8 @@ namespace ClassMetotDemo
 {
     internal class Musteri
     {
-        public string Ad  { get; set; }
-        public string Soyad { get; set; }
+        public string Ad { get; set; }
+        public string Soyadı { get; set; }
         public int TC { get; set; }
         public double TelefonNumarasi { get; set; }
         public string DogumYeri { get; set; }
