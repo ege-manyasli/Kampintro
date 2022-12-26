@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sj87BO76BCWv8gS+Pe34JJRLXSaUjHrYOKX7Dewz0W6h61S0SPzVRuLcJWA0iTrqMELrYCBPxuHyjGtAJVKsrg==",
+  "success": true,
+  "projectFilePath": "/Users/egemanyasli/Downloads/KampIntro-master 2/Oop2/Oop2.csproj",
+  "expectedPackageFiles": [
+    "/Users/egemanyasli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/egemanyasli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/egemanyasli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
